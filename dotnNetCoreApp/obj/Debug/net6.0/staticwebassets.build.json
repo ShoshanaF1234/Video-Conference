@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mEDW9QcgbYIds0qm8zCxPUjCoIi33DC5FfvdU32eTBs=",
+  "Source": "dotnNetCoreApp",
+  "BasePath": "_content/dotnNetCoreApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

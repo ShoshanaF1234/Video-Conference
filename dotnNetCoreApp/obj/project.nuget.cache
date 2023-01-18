@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "OJWSB3zJl80gSM0V/ETAosvq6hatLI23EQJSbh1k5l2lUX//ubDgE+NxvtZHBVqV1Io7FOlOt2GyBq1ZJBc2nA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shoshana Fishman\\Documents\\Shoshana\\MyProjects\\angularApp\\dotnNetCoreApp\\dotnNetCoreApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shoshana Fishman\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Shoshana Fishman\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Shoshana Fishman\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Shoshana Fishman\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Shoshana Fishman\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Shoshana Fishman\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
